@@ -1,0 +1,24 @@
+{
+  "name": "type101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc types.ts && node types.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigere/type101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brigere/type101/issues"
+  },
+  "homepage": "https://github.com/brigere/type101#readme",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
